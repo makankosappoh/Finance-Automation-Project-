@@ -22,15 +22,19 @@ A Streamlit-based Solo-Project built that simplifies bank statement analysis. Th
 - ✋ **Smart Login Interface**
   - Login using hand gesture detection via webcam (OpenCV + MediaPipe) **webcam feature not allowed in Streamlit Cloud deployed App - Instead run locally on your Code Editor**
   - Option for direct login without camera
-
+  
+![home page](https://github.com/user-attachments/assets/f5f27ba0-ce9e-4071-a14b-9fc278dd1dfb)
+![smart login](https://github.com/user-attachments/assets/02197bf2-4992-4187-b38d-2e070c076b39)
+---
 - 📊 **Dashboard Interface**
   - Upload your bank statement (CSV).
   - Automatically processes and analyzes your transactions.
   - Categorized expenses, total balance, monthly trends, etc.
   - Clear and simple visual summaries.
 
-
-
+![dashboard after uploading sample csv](https://github.com/user-attachments/assets/f4c2660c-834d-4e51-a032-c33392e93670)
+![dashboard GIF](https://github.com/user-attachments/assets/7a4ebf76-5e93-4984-85aa-f9dd84d5355b)
+---
 
 ## 🔧 Tech Stack
 
