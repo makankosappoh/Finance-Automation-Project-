@@ -57,6 +57,7 @@ A Streamlit-based Solo-Project built that simplifies bank statement analysis. Th
  - ├── packages.txt        # streamlit cloud deploy handling
  - ├── sample_bank_statement.csv        
 └── README.md               # Project overview
+└── LICENSE               # MIT License
 
 
 🔴
