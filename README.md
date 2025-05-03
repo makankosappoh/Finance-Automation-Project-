@@ -131,7 +131,7 @@ Streamlit Cloud allows users to deploy and run fully fledged Projects very easil
 **🔴 Although streamlit doesn't allow videocapture so you can just direct login to dashboard and see the project**
 
 **🟢 still can run very smooth and clear interfaced streamlit app**
-- Click down the badge to open the project Deployed as streamlit cloud app 👇
+- Click Here/open in new Tab the badge to open the project Deployed as streamlit cloud app 👉
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://finanaceautomationapp.streamlit.app/)
 
 ---
