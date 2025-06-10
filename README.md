@@ -1,5 +1,5 @@
 
-# 💼 Finance Automation Project Using Python-Streamlit-OpenCV-MediaPipe
+# 💼 Finance Automation Project Using Python-Streamlit-OpenCV-MediaPipe.
 
 A Streamlit-based Solo-Project built that simplifies bank statement analysis. The app uses Python libraries such as **pandas**, **NumPy**, **OpenCV**, and **MediaPipe**. It provides a smart login interface (via webcam hand gesture or direct button) and a project dashboard to display insights from uploaded bank statements.
 
